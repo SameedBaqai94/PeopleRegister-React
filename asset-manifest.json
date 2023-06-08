@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PeopleRegister-React/static/css/main.86c8602e.css",
+    "main.js": "/PeopleRegister-React/static/js/main.03301dba.js",
+    "static/js/787.e4769b67.chunk.js": "/PeopleRegister-React/static/js/787.e4769b67.chunk.js",
+    "static/media/logo.svg": "/PeopleRegister-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PeopleRegister-React/index.html",
+    "main.86c8602e.css.map": "/PeopleRegister-React/static/css/main.86c8602e.css.map",
+    "main.03301dba.js.map": "/PeopleRegister-React/static/js/main.03301dba.js.map",
+    "787.e4769b67.chunk.js.map": "/PeopleRegister-React/static/js/787.e4769b67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86c8602e.css",
+    "static/js/main.03301dba.js"
+  ]
+}
